@@ -6,13 +6,13 @@ I am Pranaav Srinivasan, and this is my github portfolio. I first started learni
 
 ## iOS Projects
 ###### [Clicker Game](https://github.com/sarthyparty/clicker_game)
-This game is a pretty simple game, you click a button that makes money and if you earn enough money you can upgrade the amount of money you get. Clicker game was the first actual game I worked on in Swift.
+This game is a pretty simple game, you click a button that makes money and with enough money you can upgrade the button so it makes more money. Clicker game was the first actual game I worked on in Swift.
 
 ###### [Dodge](https://github.com/sarthyparty/dodge)
+In Dodge, this game was a little harder to make, but basically there are spiked balls falling from the sky and you have to dodge the spiked balls by moving left to right, hence the name Dodge. 
 
 ###### [Infection Tag](https://github.com/sarthyparty/Infection-Tag)
-
-
+This game is the hardest game me or my team members have worked on in Swift. This game is a 2d multiplayer game made with SpriteKit and its like tag but you get infected if your player gets touched. The non-infected have to stay alive to win or the Infected should infect everyone to win. 
 
 Using this space as the home base for your portfolio, make a wiki or pages like this read me to highlight what you have learned / created over this semester of class. You should consider this as much for your grade as your resume. You've got incredible work to highlight and brag about - do that here. 
 
