@@ -14,9 +14,4 @@ In Dodge, this game was a little harder to make, but basically there are spiked 
 ###### [Infection Tag](https://github.com/sarthyparty/Infection-Tag)
 This game is the hardest game me or my team members have worked on in Swift. This game is a 2d multiplayer game made with SpriteKit and its like tag but you get infected if your player gets touched. The non-infected have to stay alive to win or the Infected should infect everyone to win. 
 
-Using this space as the home base for your portfolio, make a wiki or pages like this read me to highlight what you have learned / created over this semester of class. You should consider this as much for your grade as your resume. You've got incredible work to highlight and brag about - do that here. 
-
-I'd like you to consider this assignment as a way to get a job / internship / independent contract with someone outside the school.
-
-Create links to group projects (create a new repo for completed apps) you've been working on, making sure the read me's have details about what the apps do in the format the app store asks - look at a couple apps to see what I'm talking about. Don't forget about those first simple apps you created - they still matter!
 
